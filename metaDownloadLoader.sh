@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 cd ~/Desktop
-curl -O https://raw.githubusercontent.com/RaduStroie25/downloadAPITest/refs/heads/main/LargerFile.txt
+curl -O https://raw.githubusercontent.com/RaduStroie25/downloadAPITest/refs/heads/main/face_obj.zip
 exit
